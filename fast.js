@@ -23,7 +23,7 @@ for(let i = 0; i < 10000; ++i) {
 
 var startTime = performance.now()
 
-let meow = binary_search(list, 0, 10000, 7788)
+let meow = binary_search(list, 0, 9999, 9999)
 
 var endTime = performance.now()
 

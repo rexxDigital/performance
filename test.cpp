@@ -28,7 +28,7 @@ int main() {
 
   std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
 
-  int meow = binary_search(arr, 7788, 0, 10000);
+  int meow = binary_search(arr, 9999, 0, 9999);
 
   std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
 
